@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Sobre Mim
 
 Me descrevo como um curioso sobre tecnologia que atua como profissional de T.I. Iniciei os estudos em programação e sistemas ainda na adolescência aos 14 anos, em cursos de informática.
